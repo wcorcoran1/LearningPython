@@ -13,5 +13,7 @@
 # print("Sum: " + str(sum))
 
 course = "Python for Beginners"
+# varable .upper make the string uppercase 
 # print(course.upper())
-print(course.find("y"))
+# varable .find finds the index of that varable
+# print(course.find("y"))
