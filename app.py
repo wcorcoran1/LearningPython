@@ -7,7 +7,11 @@
 # name = input("what is your name? ")
 # print("Hello " + name)
 
-first = input("First: ")
-second = input("Second: ")
-sum = int(first) + float(second)
-print("Sum: " + str(sum))
+# first = input("First: ")
+# second = input("Second: ")
+# sum = int(first) + float(second)
+# print("Sum: " + str(sum))
+
+course = "Python for Beginners"
+# print(course.upper())
+print(course.find("y"))

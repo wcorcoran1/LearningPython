@@ -1,0 +1,1 @@
+This code is me learning a basics of Python. I compare JavaScript to Python to help me make more sense as to what is going on.
