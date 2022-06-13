@@ -17,3 +17,5 @@ course = "Python for Beginners"
 # print(course.upper())
 # varable .find finds the index of that varable
 # print(course.find("y"))
+# varable . replace replaces string with something else
+# print(course.replace("for", "4"))
