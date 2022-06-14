@@ -19,3 +19,9 @@ course = "Python for Beginners"
 # print(course.find("y"))
 # varable . replace replaces string with something else
 # print(course.replace("for", "4"))
+
+# comparsion greator than or less than spits out a boolean
+x = 3 > 2
+# print(x)
+# and is a keyword that works like & for Javascript
+
