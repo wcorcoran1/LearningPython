@@ -35,3 +35,14 @@ temperature = 12
 #     print("it's a bit cold")
 # else:
 #     print("it's cold")
+
+# while loops
+# i = 1
+# while i <= 5:
+#     print(i * "$")
+#     i = i + 1
+
+# an array with names
+# names = ["John", "Bob", "Sam", "Wes"]
+# names[0] = "Jon"
+# print(names)
