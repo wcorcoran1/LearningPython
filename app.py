@@ -25,3 +25,13 @@ x = 3 > 2
 # print(x)
 # and is a keyword that works like & for Javascript
 
+# if statements don't need curly braces like JavaScript
+temperature = 12
+# if temperature > 30:
+#     print("it's a hot day")
+# elif temperature > 20:
+#     print("it's a nice day")
+# elif temperature > 10:
+#     print("it's a bit cold")
+# else:
+#     print("it's cold")
