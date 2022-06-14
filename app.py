@@ -46,3 +46,12 @@ temperature = 12
 # names = ["John", "Bob", "Sam", "Wes"]
 # names[0] = "Jon"
 # print(names)
+
+# array methods 
+# .insert[] will insert a new object, .remove removes an object, .clear clears the array, 
+# in method searchs if that object is in the array
+
+# For loops
+numbers = [1, 2, 3, 4, 5]
+for item in numbers:
+    print(item)
